@@ -17,8 +17,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=black)&nbsp;
 
-### 📈 Activity
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kathirilango&show_icons=true&theme=dark)
+### 🌐 Find me online
+<p>
+<a href="http://kathirilango.com"><img height="40" src="https://raw.githubusercontent.com/Kathirilango/Kathirilango/main/icon/logo_white.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kathirilango11"><img height="40" src="https://raw.githubusercontent.com/Kathirilango/Kathirilango/main/icon/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kathirilango/"><img height="40" src="https://raw.githubusercontent.com/Kathirilango/Kathirilango/main/icon/linkedin.png"></a>
+</p>
 <!--
 **Kathirilango/Kathirilango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
