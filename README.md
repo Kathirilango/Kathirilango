@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently a 4th year Computer Science and Engineering student at UCLA
-- 💻 I have interned at Microsoft, Workato, and Avi Networks
+- 🔭 I’m currently a Software Engineer at Microsoft
+- 💻 I studied at UCLA and I have interned at Microsoft, Workato, and Avi Networks
 - ⚡ Fun fact: I love sports analytics!
 - 📫 How to reach me: kathirilango11@gmail.com
 
